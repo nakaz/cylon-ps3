@@ -1,0 +1,15 @@
+{
+  "name": "cylon-ps3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-joystick": "^0.19.1"
+  }
+}
